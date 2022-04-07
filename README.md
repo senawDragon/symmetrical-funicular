@@ -1,5 +1,5 @@
 # symmetrical-funicular
-A collection of science from different animes. Every concept is explained with sources and links for further studying.
+A collection of science and references from different animes. Every concept and reference is explained with sources and links for further studying.
 
 ## INTRODUCTION TO symmetrical-funicular
 I am a weeb as well as a science geek. Basically your average otaku. Since first watching, I have always wanted to understand the science behind the anime called "Science Fell in Love, So I Tried to Prove It" 理系が恋に落ちたので証明してみた。
@@ -8,3 +8,5 @@ Therefore I decided I would start studying and attempting to write down everythi
 ## INFO
 This was made and is maintained by one person.
 I am no real scientist nor a trustworthy source, therefore everything you find here about science will have trustworthy sources to back it up.
+I spend quite a lot of time, finding references and relevant information about the science related subjects, please support this project
+by simply reading it, telling your friends about it and consider giving it a star if you like it.
