@@ -10,5 +10,5 @@ child as soon as he got in pain, was worthy of being the mother.
 This is a famous story about Salomo. He judged the same way in the same scenario. I am not sure but I believe this was a reference to that story.
 
 ### Sources
-I found the Salomo quote in a school book about religion. The school book is in Swedish.
+I found the Salomo quote in a school book about religion. The book is in Swedish.
 - "Religion", Ingrid Berlin, Börge Ring and Liber AB, 2012, p.110
