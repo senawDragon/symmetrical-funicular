@@ -25,10 +25,10 @@ at least most of the time. Overall, you’re getting to know a person who is kin
 ```
 Once again I feel like some parts of this description applies to me, like many other.
 
-Sources:
+## SOURCES
 
-https://en.wikipedia.org/wiki/Barnum_effect
+- https://en.wikipedia.org/wiki/Barnum_effect
 
-https://astrologyanswers.com/zodiac-signs/pisces/man/
+- https://astrologyanswers.com/zodiac-signs/pisces/man/
 
-https://astrologyanswers.com/zodiac-signs/libra/man/
+- https://astrologyanswers.com/zodiac-signs/libra/man/
