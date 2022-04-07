@@ -37,5 +37,5 @@ Once again I feel like some parts of this description applies to me, like many o
 ## NOTE
 The Barnum Effect is mentioned in many animes, including 
 - Kaguya-Sama Love Is War
-and
+* and
 - Science Fell in Love, So I Tried to Prove It
