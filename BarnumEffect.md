@@ -27,4 +27,5 @@ Once again I feel like some parts of this description applies to me, like many o
 
 Sources:
 https://en.wikipedia.org/wiki/Barnum_effect
+
 astrologyanswers.com/zodiac-signs/pisces/man/
