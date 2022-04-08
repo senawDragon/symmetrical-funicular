@@ -1,4 +1,10 @@
 # The Barnum Effect
+Frequently called the Barnum Effect or the Forer effect. Less known as the Barnum-Forer effect.
+
+## HISTORY
+
+
+## EXPLANATION
 In psychology, the Barnum Effect refers to the phenomenon where people think that descriptions of their personality that is supposed to be specially made for them
 are highly accurate, while actually, the descriptions are really vague and made to apply on any person.
 
