@@ -8,7 +8,7 @@ Therefore I decided I would start studying and attempt to write down everything 
 ## INFO
 This was made and is maintained by one person.
 I am no real scientist nor a trustworthy source, therefore everything you find here about science will have trustworthy sources to back it up.
-´´´
+```
 This is an extremely time and energy consuming project especially since I am a student and I try to find references and relevant information about the science related subjects, please support this project
 by simply reading it, telling your friends about it and consider giving it a star if you like it.
-´´´
+```
