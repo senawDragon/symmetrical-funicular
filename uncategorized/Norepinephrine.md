@@ -1,7 +1,7 @@
 # NOREPINEPHRINE
 In progress...
 
-Commonly known as adrenaline
+Commonly known as Noradrenaline
 
 - Arousal
 - Exhilaration
