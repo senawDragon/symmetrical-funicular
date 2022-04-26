@@ -1,15 +1,16 @@
-Barnum Effect
-Dopamine
-Neurotransmitter
-Norepinephrine
-Oxytocin
-Vasopressin
-Fermi estimate
-Drake equation
-Why I don't have a girlfriend: An application of the Drake equation to love in the UK Peter Backus
-Kepler's first law of planetary motion
-Ethyl
-Myokine
-Chuunibyou syndrome
-Reference to Salomo in Kaguya-Sama
-Three year romance theory Helen Fisher (The three loves theory) (helen fisher three stages of falling in love)
+- Barnum Effect
+- Dopamine
+- Neurotransmitter
+- Norepinephrine
+- Oxytocin
+- Vasopressin
+- Fermi estimate
+- Drake equation
+- Why I don't have a girlfriend: An application of the Drake equation to love in the UK Peter Backus
+- Kepler's first law of planetary motion
+- Ethyl
+- Myokine
+- Chuunibyou syndrome
+- Reference to Salomo in Kaguya-Sama
+- Three year romance theory Helen Fisher (The three loves theory) (helen fisher three stages of falling in love)
+- Romeo and Juila effect
